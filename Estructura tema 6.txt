@@ -1,0 +1,9 @@
+1. Qué es el R Markdown   OK 
+2. El espacio de trabajo --- Creando un Markdown OK
+3. La estructura del .rmd OK
+4. El YAML OK 
+5. Escribir en el .rmd --- el Pandoc OK
+6. Insertar código
+7. Ir más allá
+8. Tres ejemplos 
+9. REF

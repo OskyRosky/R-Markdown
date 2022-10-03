@@ -1,0 +1,46 @@
+---
+title: "HTML.ej1.YAML"
+author: ""
+date: ""
+output: 
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: true
+      smooth_scroll: false
+    number_sections: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Este es el ejemplo 1 -  Titulo 1 -
+
+Ana y Rodrigo...
+
+# Titulo 2
+
+...van todos los fines de semana...
+
+
+# Titulo 3
+
+... a la disco, y ahí ....
+
+# Titulo 4
+
+... perrean intensamente, además....
+
+
+# Titulo 5
+
+... obviamente, Vero los acompaña !
+
+
+
+
+
+
+
